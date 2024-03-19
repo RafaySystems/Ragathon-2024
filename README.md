@@ -33,7 +33,7 @@ Access to Llama models is [gated](https://huggingface.co/docs/hub/en/models-gate
 4. Refer the sample notebook for a simple RAG pipeline built using Llama 2 model.
 5. Evaluate the model using Ragas library, we evaluate the model based on four metrics. Context precision, recall, faithfulness and answer relevancy. Please learn more about these metrics @ [Ragas Metrics](https://docs.ragas.io/en/stable/concepts/metrics/index.html).
 6. Take screenshot of your metrics and share with us. Please use these metrics as a reference to iterate and improve your RAG pipeline.
-7. Finally email the metrics along with the Jupyter notebook with your implementation to ragathon@rafay.ai
+7. Finally email the metrics along with the Jupyter notebook with your implementation to ragathon@rafay.co
 
 
 ## Judging Criteria
